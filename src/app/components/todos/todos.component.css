@@ -55,3 +55,10 @@
 	font-weight: 700;
 }
 
+.delete {
+	background-color: pink;
+	font-size: 0.8rem;
+	padding: 0.2rem;
+	border-radius: 8%;
+	border: none;
+}
